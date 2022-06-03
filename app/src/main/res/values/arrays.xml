@@ -1,0 +1,29 @@
+<resources>
+    <string-array name="entries">
+        <item>MLA (Humanities)</item>
+        <item>APA (Psychology, Education, Social Sciences)</item>
+        <item>Chicago/Turabian (History, Humanities, (Social) Sciences)</item>
+        <item>Harvard (Economics)</item>
+        <item>Vancouver (med)</item>
+        <item>OSCOLA (Law)</item>
+        <item>IEEE (IT, Engineering)</item>
+        <item>AMA (Medicine)</item>
+        <item>ACS (Chemistry)</item>
+        <item>NLM (Medicine)</item>
+        <item>AAA/APSA (Social Sciences, Political Science, Anthropology)</item>
+    </string-array>
+
+    <string-array name="entry_values">
+        <item>MLA</item>
+        <item>APA</item>
+        <item>Chicago/Turabian</item>
+        <item>Harvard</item>
+        <item>Vancouver</item>
+        <item>OSCOLA</item>
+        <item>IEEE</item>
+        <item>AMA</item>
+        <item>ACS</item>
+        <item>NLM</item>
+        <item>AAA/APSA</item>
+    </string-array>
+</resources>

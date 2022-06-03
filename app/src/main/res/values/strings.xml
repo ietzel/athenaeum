@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Athenaeum</string>
+    <string name="name_item_detail">Athenaeum record</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Athenaeum Settings</string>
+    <string name="title_dropdown_preference">Citation Generator (style preference)</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
